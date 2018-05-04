@@ -1,0 +1,9 @@
+/.idea/
+/.metadata/
+/.settings/
+/bin/
+/target/
+/libs/
+.classpath
+.project
+object-detection.iml
